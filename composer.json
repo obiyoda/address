@@ -1,0 +1,13 @@
+{
+    "name": "obiyoda/addresses",
+    "description": "Simple Addresses",
+    "require": {
+        "klein/klein": "^2.1"
+    },
+    "authors": [
+        {
+            "name": "Jared Daines",
+            "email": "jared@minorsoft.com"
+        }
+    ]
+}
